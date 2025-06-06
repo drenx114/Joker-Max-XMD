@@ -11,18 +11,18 @@
   },
   "env": {
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "DBY XMD",
       "value": "Joker-Max-XMD",
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number with country code (e.g., 263xxx for Zimbabwe)",
+      "description": "263710781795",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Owner name",
-      "value": "",
+      "description": "DBY",
+      "value": "true",
       "required": true
     },
     "STICKER_AUTHOR_NAME": {
